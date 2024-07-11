@@ -18,6 +18,7 @@ img {
     width: 400px;
     height: 400px;
     margin-top: 120px;
+    border-radius:1rem;
 }
 
 /* Style for FontAwesome icons */
